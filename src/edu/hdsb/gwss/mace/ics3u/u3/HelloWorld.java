@@ -22,7 +22,7 @@ public class HelloWorld {
    
     System.out.format("%-20s | %5s | %7s | %6s", "Team Name", "Wins", "Losses", "Draws \n \n");
     System.out.println("----------------------------------------------");
-    System.out.format("%-20s | %5s | %7s | %6s", "Toronto" , "20" , "2" , "2\n");
+    System.out.format("%-20s | %5s | %7s | %6s", "Toronto" , "20" , "2" , "2\n"); 
  System.out.format("%-20s | %5s | %7s | %6s", "Chicago" , "12" , "7" , "4\n");
  System.out.format("%-20s | %5s | %7s | %6s", "Boston" , "14" , "5" , "2\n");
  System.out.format("%-20s | %5s | %7s | %6s", "New York" , "16" , "11" , "1\n");
