@@ -32,7 +32,7 @@ public class Triangle {
         Scanner input = new Scanner(System.in);
 
 // INPUT; Ask, Get
-        System.out.print("Three numbers represent the sides of a triangle when the sum of any two sides is greater than the third side.\nThis program has the user enter three lengths of sides and determines whether the figure is a possible triangle \nor not.\n\n");
+        System.out.print("Triangle\n\nThree numbers represent the sides of a triangle when the sum of any two sides is greater than the third side.\nThis program has the user enter three lengths of sides and determines whether the figure is a possible triangle \nor not.\n\n");
         System.out.print("Enter Side 1's Length:   ");
         side1 = input.nextInt();
         System.out.print("Enter Side 2's Length:   ");
