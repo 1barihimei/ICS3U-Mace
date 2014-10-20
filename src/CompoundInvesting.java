@@ -15,6 +15,12 @@ public class CompoundInvesting {
     public static void main(String[] args) {
         // TODO code application logic here
     
+        // CONSTANTS
+        // VARIABLES
+        // OBJECTS
+        // INPUT; Ask, Get
+
+        
     System.out.print("Compound Investing \n\nThis program will print out a little table that will display the \namount of a yearly investment over a period of up to 15 years.\n");
     
     }
