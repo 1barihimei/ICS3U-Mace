@@ -25,7 +25,7 @@ public class OunceGramsGOOD {
                 */
                 System.out.format("%7s \t %4.2f\n", oz, g); 
                 
-                g = g + 28.35;  /* grams goes up by 28.35 each time
+                g = g + 28.35;  //* grams goes up by 28.35 each time
             }
         }
     }
