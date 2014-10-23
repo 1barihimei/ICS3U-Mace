@@ -3,7 +3,8 @@
  * Date:    Oct. 20, 2014
  * Version: v0
  * Description:
- *  
+ *  This program demonstrates that the result of adding the numbers 1, 1/2, 1/4, 1/16, ... 
+ *  and so on gets closer to 2 without becoming 2.
  */
 public class CloserToTwo {
 

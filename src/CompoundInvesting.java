@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 /*
  * Name:    Mace Barihi
@@ -8,6 +7,8 @@ import java.util.Scanner;
  *  This program asks the user to enter the number of years (up to 15 years),
  *  the amount invested per year, and interest rate and creates a total for each year and displays a chart.
  */
+import java.util.Scanner;
+
 public class CompoundInvesting {
 
     /**
