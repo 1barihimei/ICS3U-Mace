@@ -12,14 +12,18 @@ public class CloserToTwo {
      */
     public static void main(String[] args) {
 
-        double lastNumber = 0;
-        int divisionNumber = 0;
-        
-        // INPUT; Ask, Get
-        System.out.print("Closer to Two\nThis program demonstrates that the result of adding the number \n1, 1/2, 1/4, 1/16 ... and so on gets closer to 2 without becoming 2.\n\n");
+        // VARIABLES
+        double lastNumber = 1;
+        double divisionNumber = 2;
+        double total = 1;
 
-        for (double total = lastNumber + 1 / divisionNumber; total <= 2;) {
-            System.out.print(lastNumber + "+" + "1" + divisionNumber + "=" + total + "\n");
+        // INPUT; Ask, Get
+        System.out.print("Closer to Two \nThis program demonstrates that the result of adding the number 1, 1/2, 1/4, 1/16 ...  \nand so on gets closer to 2 without becoming 2.\n\n");
+        System.out.print("0.0 + 1/1 = 1.0\n");
+        for (; total < 2;) {
+            total = total + 1 / divisionNumber;
+            System.out.print(lastNumber + " + " + "1/" + divisionNumber + " = " + total + "\n");
+
             divisionNumber = divisionNumber * 2;
             lastNumber = total;
         }
