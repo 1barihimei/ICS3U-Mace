@@ -1,3 +1,5 @@
+package edu.hdsb.gwss.mace.ics3u.u3;
+
 import java.util.Scanner;
 
 /*
