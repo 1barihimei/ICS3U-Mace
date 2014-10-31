@@ -1,6 +1,6 @@
 /*
  * Name:    Mace Barihi
- * Date:    Oct. 23, 2014
+ * Date:    Oct. 28, 2014
  * Version: v0
  * Description:
  *  This program simulates how much food is availale per animal in a lab. Every hour, the number of animals double

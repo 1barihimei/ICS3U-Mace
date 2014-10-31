@@ -2,7 +2,7 @@ package edu.hdsb.gwss.mace.ics3u.u4;
 
 /*
  * Name:    Mace Barihi
- * Date:    Oct. 23, 2014
+ * Date:    Oct. 26, 2014
  * Version: v0
  * Description:
  *  This program is a slot machine simulation. 3 numbers ranging from 1-4 are randomely generated.
